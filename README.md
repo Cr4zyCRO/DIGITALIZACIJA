@@ -1,2 +1,2 @@
-# DIGITALIZACIJA
+# Edit dalmacija
 Digitalizacija u osnovama elektrotehnike
